@@ -17,7 +17,7 @@ The Password Generator App is a React-based web application that allows users to
 
 - React
 - JavaScript
-- CSS
+- Tailwind CSS
 - Clipboard API
 
 ## Installation
